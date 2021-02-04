@@ -1,2 +1,2 @@
 # HackerRank-ProjectEuler-
-These
+These are
